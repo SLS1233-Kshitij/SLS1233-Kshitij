@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=SLS1233-Kshitij)-
 
- 👋 Hi, I’m Kshitij
-Welcom to my Github Account.
+ 👋 Hi, I’m Kshitij,-
+Welcome to my Github Account.
 
 
 
