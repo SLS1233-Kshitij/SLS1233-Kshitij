@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=SLS1233-Kshitij)-
+![](https://komarev.com/ghpvc/?username=SLS1233-Kshitij)
 
  👋 Hi, I’m Kshitij,
  
